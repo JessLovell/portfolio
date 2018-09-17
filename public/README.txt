@@ -35,6 +35,7 @@ Credits:
 		Font Awesome (fontawesome.io)
 
 	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
+		jQuery (jquery.com) 
+		Scrollex (cdn.jsdelivr.net/npm/jquery.scrollex@0.2.1)
+		Scrolly (cdn.jsdelivr.net/npm/jquery.scrolly@0.0.1)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
